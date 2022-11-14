@@ -236,14 +236,15 @@ gvfs-afc
 gvfs-gphoto2
 gvfs-smb
 gvfs-google
+gnome
 inotify-tools
 jq
 make
 patch
 pkg-config
 polkit
-powertop
-python2
+htop
+python
 sshfs
 udisks2
 wmctrl
@@ -278,3 +279,8 @@ qemu-guest-agent
 open-vm-tools
 xf86-input-vmmouse
 xf86-video-vmware
+
+##-------- Calamares ----------------##
+boost
+calamares
+calamares-config

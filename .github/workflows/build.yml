@@ -28,7 +28,7 @@ jobs:
           mkarchiso -v .
           find out/
 
-      - uses: actions/upload-artifact@v2
+      - uses: actions/upload-artifact@v3
         with:
           name: dragoonlinux
           path: out/*.iso
